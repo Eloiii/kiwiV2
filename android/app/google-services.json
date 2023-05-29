@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221626185960",
+    "project_id": "kiwiv2",
+    "storage_bucket": "kiwiv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221626185960:android:760eb67ace09f90049b15d",
+        "android_client_info": {
+          "package_name": "com.kiwiv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD87J5g9UYJy6TGbpwQTLtQpe1_nBcKqCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
